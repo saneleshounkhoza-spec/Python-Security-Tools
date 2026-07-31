@@ -1,6 +1,6 @@
 # Python-Security-Tools
-A collection of beginner-friendly python scripts for cybersecurity
-This repository contains simple Python tools created to strengthen my cybersecurity and programming skills. 
+
+A collection of beginner-friendly Python scripts for cybersecurity scrips. This repository contains simple Python tools created to strengthen my cybersecurity and programming skills. 
 
 ## Tools Included 
 
